@@ -26,3 +26,8 @@ start:
     move esp, stack_top
     call kmain
     hit
+
+section .bss
+stack_bottom:
+resb 64
+stack_top:
