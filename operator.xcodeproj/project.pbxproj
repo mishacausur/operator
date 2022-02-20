@@ -8,16 +8,16 @@
 
 /* Begin PBXFileReference section */
 		B633417A27C254C00071A4F4 /* kernel.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = kernel.asm; sourceTree = "<group>"; };
-		B633417B27C255510071A4F4 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
-		B633417C27C255510071A4F4 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		B633417B27C255510071A4F4 /* kernel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = kernel.h; sourceTree = "<group>"; };
+		B633417C27C255510071A4F4 /* kernel.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = kernel.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		B633417327C254B10071A4F4 = {
 			isa = PBXGroup;
 			children = (
-				B633417B27C255510071A4F4 /* main.h */,
-				B633417C27C255510071A4F4 /* main.c */,
+				B633417B27C255510071A4F4 /* kernel.h */,
+				B633417C27C255510071A4F4 /* kernel.c */,
 				B633417A27C254C00071A4F4 /* kernel.asm */,
 			);
 			sourceTree = "<group>";

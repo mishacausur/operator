@@ -5,9 +5,9 @@
 //  Created by Misha Causur on 20.02.2022.
 //
 
-#ifndef main_h
-#define main_h
+#ifndef kernel_h
+#define kernel_h
 
 #include <stdio.h>
 
-#endif /* main_h */
+#endif /* kernel_h */
