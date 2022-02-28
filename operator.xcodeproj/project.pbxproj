@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B6542F3127CCE9D900105C48 /* operator.c in Sources */ = {isa = PBXBuildFile; fileRef = B6542F3027CCE9D900105C48 /* operator.c */; };
+		B6542F5427CCF69800105C48 /* operator.mm in Sources */ = {isa = PBXBuildFile; fileRef = B6542F2727CCE94900105C48 /* operator.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,7 +35,6 @@
 		B633417327C254B10071A4F4 = {
 			isa = PBXGroup;
 			children = (
-				B6542F2727CCE94900105C48 /* operator.mm */,
 				B633417B27C255510071A4F4 /* kernel.h */,
 				B633417C27C255510071A4F4 /* kernel.c */,
 				B633417A27C254C00071A4F4 /* kernel.asm */,
@@ -54,6 +54,7 @@
 		B6542F2F27CCE9D900105C48 /* operator */ = {
 			isa = PBXGroup;
 			children = (
+				B6542F2727CCE94900105C48 /* operator.mm */,
 				B6542F3027CCE9D900105C48 /* operator.c */,
 				B6542F3227CCE9D900105C48 /* Info.plist */,
 			);
@@ -139,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6542F3127CCE9D900105C48 /* operator.c in Sources */,
+				B6542F5427CCF69800105C48 /* operator.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
