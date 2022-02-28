@@ -10,12 +10,14 @@
 		B633417A27C254C00071A4F4 /* kernel.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = kernel.asm; sourceTree = "<group>"; };
 		B633417B27C255510071A4F4 /* kernel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = kernel.h; sourceTree = "<group>"; };
 		B633417C27C255510071A4F4 /* kernel.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = kernel.c; sourceTree = "<group>"; };
+		B6542F2727CCE94900105C48 /* operator.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = operator.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		B633417327C254B10071A4F4 = {
 			isa = PBXGroup;
 			children = (
+				B6542F2727CCE94900105C48 /* operator.mm */,
 				B633417B27C255510071A4F4 /* kernel.h */,
 				B633417C27C255510071A4F4 /* kernel.c */,
 				B633417A27C254C00071A4F4 /* kernel.asm */,
